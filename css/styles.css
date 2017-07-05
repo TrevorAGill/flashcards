@@ -1,0 +1,13 @@
+.answer {
+  display: none;
+  color: red;
+}
+
+.questions li {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.questions li:hover {
+  text-decoration: underline;
+}
